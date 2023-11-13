@@ -1,1 +1,14 @@
-
+button {
+    background-color: ghostwhite;
+    color: black;
+    transition-duration: 2s;
+}
+button:hover {
+    background-color:cornflowerblue;
+    color: white;
+}
+.caption {
+    z-index: 1;
+    transform: translate(-194px, 363px);
+    
+}
